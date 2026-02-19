@@ -24,3 +24,11 @@ Missing years detected:
 ## Impact
 Improved accuracy of Olympic participation records and demonstrated cross-language data QA workflow.
 
+## Comparison Screenshots
+
+### Reference Dataset (English Wikipedia)
+![English Wiki](screenshots/en_reference.png)
+
+### Target Dataset with Missing Entries (Chinese Wikipedia)
+![Chinese Wiki](screenshots/zh_missing.png)
+
