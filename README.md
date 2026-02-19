@@ -1,0 +1,26 @@
+# Olympics Data Consistency Audit
+
+This project analyzes inconsistencies between English and Chinese Wikipedia Olympic datasets.
+
+## Goal
+Detect missing Winter Olympic participation records in Chinese Wikipedia.
+
+## Method
+- Extract Winter Olympic appearance years from English Wikipedia
+- Compare with Chinese Wikipedia
+- Identify missing entries
+- Generate standardized wiki patches
+
+## Result
+Missing years detected:
+1980, 1984, 1988, 1992, 1994, 1998
+
+## Tools
+- Python
+- Excel
+- MediaWiki API
+- Data validation techniques
+
+## Impact
+Improved accuracy of Olympic participation records and demonstrated cross-language data QA workflow.
+
