@@ -32,3 +32,9 @@ Improved accuracy of Olympic participation records and demonstrated cross-langua
 ### Target Dataset with Missing Entries (Chinese Wikipedia)
 ![Chinese Wiki](screenshots/zh_missing.png)
 
+## Data
+
+- data/china_winter_participation_1980_1998.csv
+- data/wiki_comparison_winter_olympics.csv
+- data/winter_olympics_events_1980_1998.csv
+
